@@ -111,3 +111,19 @@ weighted avg       0.72      0.75      0.74       120
     - Frase de agenda $\rightarrow$ **`agenda`** (41.0% confianza) ✅
     - Frase de datos $\rightarrow$ **`datos_ia`** (32.4% confianza) ✅
 
+---
+
+## 7. Migración a Arquitectura Hexagonal y Habilidad Conversacional Fluida
+- **Migración Arquitectónica:**
+  - Descomposición del monolito `traininglm.py` en artefactos modulares bajo `src/`:
+    - Dominio puro (`src/core/domain/`, `src/core/ports/`, `src/core/services/`).
+    - Adaptadores (`src/adapters/inbound/http/`, `src/adapters/outbound/persistence/`).
+    - `traininglm.py` como Composition Root ligero (~100 líneas).
+- **Incorporación de la Clase Conversacional (`conversacion`):**
+  - Inclusión en `CLASES_TECNICAS` para reconocimiento y evaluación formal de 5 clases.
+  - Nutrición con ejemplos de saludos cotidianos, cortesía y preguntas generales con respuestas humanas.
+- **Interactividad y Aprendizaje en Caliente en el Frontend:**
+  - Botón interactivo `✏️ Enseñar / Corregir respuesta` en cada mensaje del asistente en el chat.
+  - Modal dinámico de enseñanza rápida (`showTeachModal`) para corregir la respuesta de cualquier frase al vuelo.
+  - Selector de etiquetas rápidas (`conversacion`, `codigo`, `soporte`, `datos_ia`, `agenda`) y campo de respuesta en el panel lateral.
+  - Validación de inferencia: `"hola como estas"` clasifica en `conversacion` y devuelve respuesta empática e inmediata.

@@ -126,7 +126,7 @@ HABILIDADES_PACKS = {
     }
 }
 
-CLASES_TECNICAS = ["codigo", "agenda", "datos_ia", "soporte"]
+CLASES_TECNICAS = ["codigo", "agenda", "datos_ia", "soporte", "conversacion"]
 OBJETIVO_POR_CLASE = 25
 CUOTA_MAXIMA_CLASE = 0.30
 
@@ -155,6 +155,26 @@ DATASET_BASE = [
         "texto": "agendar una cita o reunion en mi calendario para mañana", 
         "etiqueta": "agenda", 
         "respuesta": "Cita registrada en tu calendario para el día de mañana con recordatorio prioritario configurado."
+    },
+    {
+        "texto": "hola como estas", 
+        "etiqueta": "conversacion", 
+        "respuesta": "¡Hola! Estoy muy bien, gracias por preguntar. ¿En qué te puedo ayudar hoy?"
+    },
+    {
+        "texto": "buenos dias que tal estas hoy", 
+        "etiqueta": "conversacion", 
+        "respuesta": "¡Buenos días! Todo excelente por aquí, listo para charlar y ayudarte."
+    },
+    {
+        "texto": "muchas gracias por tu ayuda", 
+        "etiqueta": "conversacion", 
+        "respuesta": "¡De nada! Es un placer ayudarte. Avísame si necesitas algo más."
+    },
+    {
+        "texto": "adios hasta pronto que te vaya bien", 
+        "etiqueta": "conversacion", 
+        "respuesta": "¡Hasta pronto! Que tengas un gran día."
     }
 ]
 
