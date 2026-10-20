@@ -950,7 +950,7 @@
 
   <script type="text/babel">
     const { useState, useEffect, useRef } = React;
-    const API_BASE = "http://127.0.0.1:8001";
+    const API_BASE = window.location.origin.startsWith("http") ? window.location.origin : "http://127.0.0.1:8001";
 
     function App() {
       const [messages, setMessages] = useState([
