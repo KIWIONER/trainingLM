@@ -15,6 +15,17 @@ A diferencia de un modelo de caja negra o un LLM externo, el sistema implementa 
 
 ## 2. Stack Tecnológico
 
+### Arquitectura del Sistema: Hexagonal (Ports & Adapters)
+El proyecto ha sido modularizado bajo una arquitectura limpia en `src/`:
+- **Dominio Central (`src/core/`):**
+  - `domain/`: Entidades puras (`entities.py`) y constantes léxicas/plantillas gramaticales (`constants.py`).
+  - `ports/`: Interfaces abstractas (`dataset_repository.py`, `model_store.py`, `audit_logger.py`).
+  - `services/`: Motores de NLP (`nlp_engine.py`), balanceo y poda (`dataset_balancer.py`), inducción sintética (`synthetic_induction.py`) y evaluación formal (`model_evaluator.py`).
+- **Adaptadores (`src/adapters/`):**
+  - `inbound/http/`: DTOs de Pydantic (`dtos.py`) y routers FastAPI modulares (`chat_router.py`, `training_router.py`, `diagnostics_router.py`).
+  - `outbound/persistence/`: Repositorio JSON (`json_dataset_repository.py`), almacén Joblib (`joblib_model_store.py`) y registro JSONL (`jsonl_audit_logger.py`).
+- **Composition Root (`traininglm.py`):** Instancia y ensambla los adaptadores con los servicios inyectando dependencias en `app.state`, garantizando compatibilidad total con Uvicorn y despliegues en la nube.
+
 ### Backend & API
 - **Lenguaje:** Python 3.12+
 - **Framework Web:** FastAPI (API REST asíncrona, validación con Pydantic v2).
