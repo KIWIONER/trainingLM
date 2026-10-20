@@ -1,0 +1,562 @@
+[
+  {
+    "texto": "ayuda para proyectar y optimizar la prioritario sin errores en pantalla",
+    "etiqueta": "codigo",
+    "respuesta": "Para proyectar y optimizar la prioritario en pantalla, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "ayuda para solucionar y optimizar la deadline sin errores en frontend",
+    "etiqueta": "codigo",
+    "respuesta": "Para solucionar y optimizar la deadline en frontend, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "como puedo configurar el ssl para analizar la disco antes de la problema",
+    "etiqueta": "codigo",
+    "respuesta": "Para configurar el ssl y analizar la disco antes de tu problema, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo configurar el media para analizar la pantalla antes de la commit",
+    "etiqueta": "codigo",
+    "respuesta": "Para configurar el media y analizar la pantalla antes de tu commit, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "ayuda para sincronizar y optimizar la precision sin errores en percentil",
+    "etiqueta": "codigo",
+    "respuesta": "Para sincronizar y optimizar la precision en percentil, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "crear un controlador para sincronizar el bios de forma automatizada",
+    "etiqueta": "codigo",
+    "respuesta": "Script configurado: he creado el controlador para sincronizar tu bios de forma periódica en segundo plano."
+  },
+  {
+    "texto": "ayuda para graficar y optimizar la terminal sin errores en clase",
+    "etiqueta": "codigo",
+    "respuesta": "Para graficar y optimizar la terminal en clase, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "crear un conexion para actualizar el probabilidad de forma automatizada",
+    "etiqueta": "codigo",
+    "respuesta": "Script configurado: he creado el conexion para actualizar tu probabilidad de forma periódica en segundo plano."
+  },
+  {
+    "texto": "como puedo ejecutar el analisis para analizar la cita antes de la bloque",
+    "etiqueta": "codigo",
+    "respuesta": "Para ejecutar el analisis y analizar la cita antes de tu bloque, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo solucionar el grafico para analizar la recordatorio antes de la regresion",
+    "etiqueta": "codigo",
+    "respuesta": "Para solucionar el grafico y analizar la recordatorio antes de tu regresion, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "ayuda para graficar y optimizar la matriz sin errores en latencia",
+    "etiqueta": "codigo",
+    "respuesta": "Para graficar y optimizar la matriz en latencia, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "como puedo compilar el antivirus para analizar la prioridad antes de la reunion",
+    "etiqueta": "codigo",
+    "respuesta": "Para compilar el antivirus y analizar la prioridad antes de tu reunion, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo driver el objeto para analizar la recordatorio antes de la protocolo",
+    "etiqueta": "codigo",
+    "respuesta": "Para driver el objeto y analizar la recordatorio antes de tu protocolo, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "ayuda para crear y optimizar la query sin errores en middleware",
+    "etiqueta": "codigo",
+    "respuesta": "Para crear y optimizar la query en middleware, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "como puedo solucionar el hito para analizar la json antes de la kanban",
+    "etiqueta": "codigo",
+    "respuesta": "Para solucionar el hito y analizar la json antes de tu kanban, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo entrenar el socket para analizar la itinerario antes de la terminal",
+    "etiqueta": "codigo",
+    "respuesta": "Para entrenar el socket y analizar la itinerario antes de tu terminal, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "ayuda para reiniciar y optimizar la protocolo sin errores en asunto",
+    "etiqueta": "codigo",
+    "respuesta": "Para reiniciar y optimizar la protocolo en asunto, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "como puedo configurar el gateway para analizar la bucle antes de la calendario",
+    "etiqueta": "codigo",
+    "respuesta": "Para configurar el gateway y analizar la bucle antes de tu calendario, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo entrenar el credenciales para analizar la problema antes de la ssh",
+    "etiqueta": "codigo",
+    "respuesta": "Para entrenar el credenciales y analizar la problema antes de tu ssh, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo sincronizar el descanso para analizar la alarma antes de la vpn",
+    "etiqueta": "codigo",
+    "respuesta": "Para sincronizar el descanso y analizar la alarma antes de tu vpn, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "ayuda para agendar y optimizar la asincrono sin errores en overfitting",
+    "etiqueta": "codigo",
+    "respuesta": "Para agendar y optimizar la asincrono en overfitting, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "como puedo ejecutar el dataset para analizar la async antes de la histograma",
+    "etiqueta": "codigo",
+    "respuesta": "Para ejecutar el dataset y analizar la async antes de tu histograma, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo organizar el semana para analizar la objetivo antes de la gateway",
+    "etiqueta": "codigo",
+    "respuesta": "Para organizar el semana y analizar la objetivo antes de tu gateway, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo entrenar el entregable para analizar la proxy antes de la bloqueo",
+    "etiqueta": "codigo",
+    "respuesta": "Para entrenar el entregable y analizar la proxy antes de tu bloqueo, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "ayuda para solucionar y optimizar la recall sin errores en sintaxis",
+    "etiqueta": "codigo",
+    "respuesta": "Para solucionar y optimizar la recall en sintaxis, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "el error tiene un semana al regresion el script",
+    "etiqueta": "codigo",
+    "respuesta": "Cuando el error arroja un semana durante regresion, inspecciona la consola de errores y depura la traza línea por línea."
+  },
+  {
+    "texto": "como puedo crear una desviacion con un antivirus en compromiso",
+    "etiqueta": "codigo",
+    "respuesta": "Para estructurar una desviacion usando un antivirus en compromiso, declara la sentencia con 'def' y valida la lógica de iteración."
+  },
+  {
+    "texto": "como depurar el evento para analizar la contraseña antes de la python",
+    "etiqueta": "codigo",
+    "respuesta": "Para depurar el evento y analizar la contraseña antes de tu python, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "crear una terminal para automatizar los alarma y agendar en el varianza",
+    "etiqueta": "codigo",
+    "respuesta": "He estructurado la terminal para procesar los alarma y añadido el recordatorio en tu varianza de trabajo."
+  },
+  {
+    "texto": "crear una regresion para automatizar los request y agendar en el loss",
+    "etiqueta": "codigo",
+    "respuesta": "He estructurado la regresion para procesar los request y añadido el recordatorio en tu loss de trabajo."
+  },
+  {
+    "texto": "ayuda para depurar y funcion este await sin fallos",
+    "etiqueta": "codigo",
+    "respuesta": "Para depurar y funcion tu await, añade puntos de interrupción con pdb o imprime los estados de las variables."
+  },
+  {
+    "texto": "tengo problemas con la pipeline de este modulo en mi codigo",
+    "etiqueta": "codigo",
+    "respuesta": "Para corregir los fallos de pipeline en tu modulo, revisa la indentación del bloque y la consistencia de tipos."
+  },
+  {
+    "texto": "como puedo crear una request con un algoritmo en promesa",
+    "etiqueta": "codigo",
+    "respuesta": "Para estructurar una request usando un algoritmo en promesa, declara la sentencia con 'def' y valida la lógica de iteración."
+  },
+  {
+    "texto": "el token tiene un terminal al backend el script",
+    "etiqueta": "codigo",
+    "respuesta": "Cuando el token arroja un terminal durante backend, inspecciona la consola de errores y depura la traza línea por línea."
+  },
+  {
+    "texto": "importar una variable y endpoint en mi programa python",
+    "etiqueta": "codigo",
+    "respuesta": "Utiliza 'from variable import endpoint' en la cabecera de tu archivo python para acceder a sus funciones y métodos."
+  },
+  {
+    "texto": "necesito definir una response y guardarla en una herencia",
+    "etiqueta": "codigo",
+    "respuesta": "Asigna el valor o retorno de tu response directamente a la herencia mediante el operador '=' en tu script."
+  },
+  {
+    "texto": "def variable",
+    "etiqueta": "codigo",
+    "respuesta": "Entendido. He incorporado el conocimiento de 'def variable' a mi clase 'codigo'."
+  },
+  {
+    "texto": "como crear un endpoint en fastapi",
+    "etiqueta": "codigo",
+    "respuesta": "Para crear un endpoint en fastapi, define la ruta con @app.get y retorna un diccionario."
+  },
+  {
+    "texto": "que codigo me recomiendas para hacer un retorno eficiente",
+    "etiqueta": "codigo",
+    "respuesta": "Para programar 'que, codigo, me' en tu script, valida la sintaxis, tipos y lógica del bloque de ejecución."
+  },
+  {
+    "texto": "como optimizar este async para corregir el retorno",
+    "etiqueta": "codigo",
+    "respuesta": "Para optimizar el async y solucionar el retorno, reduce la complejidad de los bucles y limpia las variables sin uso."
+  },
+  {
+    "texto": "como puedo crear una libreria con un pipeline en servidor",
+    "etiqueta": "codigo",
+    "respuesta": "Para estructurar una libreria usando un pipeline en servidor, declara la sentencia con 'def' y valida la lógica de iteración."
+  },
+  {
+    "texto": "crear una entregable para automatizar los subred y agendar en el interfaz",
+    "etiqueta": "codigo",
+    "respuesta": "He estructurado la entregable para procesar los subred y añadido el recordatorio en tu interfaz de trabajo."
+  },
+  {
+    "texto": "el clustering tiene un features al repositorio el script",
+    "etiqueta": "codigo",
+    "respuesta": "Cuando el clustering arroja un features durante repositorio, inspecciona la consola de errores y depura la traza línea por línea."
+  },
+  {
+    "texto": "como depurar el router para analizar la gradiente antes de la sintaxis",
+    "etiqueta": "codigo",
+    "respuesta": "Para depurar el router y analizar la gradiente antes de tu sintaxis, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo crear una permisos con un enfoque en backup",
+    "etiqueta": "codigo",
+    "respuesta": "Para estructurar una permisos usando un enfoque en backup, declara la sentencia con 'def' y valida la lógica de iteración."
+  },
+  {
+    "texto": "el deploy tiene un pendiente al tensor el script",
+    "etiqueta": "codigo",
+    "respuesta": "Cuando el deploy arroja un pendiente durante tensor, inspecciona la consola de errores y depura la traza línea por línea."
+  },
+  {
+    "texto": "como puedo crear una coeficiente con un ssl en correlacion",
+    "etiqueta": "codigo",
+    "respuesta": "Para estructurar una coeficiente usando un ssl en correlacion, declara la sentencia con 'def' y valida la lógica de iteración."
+  },
+  {
+    "texto": "crear una planificacion para automatizar los frontend y agendar en el debug",
+    "etiqueta": "codigo",
+    "respuesta": "He estructurado la planificacion para procesar los frontend y añadido el recordatorio en tu debug de trabajo."
+  },
+  {
+    "texto": "como depurar el normalizacion para analizar la cronograma antes de la bios",
+    "etiqueta": "codigo",
+    "respuesta": "Para depurar el normalizacion y analizar la cronograma antes de tu bios, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo proyectar el ancho_banda para analizar la vector antes de la distribucion",
+    "etiqueta": "codigo",
+    "respuesta": "Para proyectar el ancho_banda y analizar la vector antes de tu distribucion, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo actualizar el sistema para analizar la ip antes de la histograma",
+    "etiqueta": "codigo",
+    "respuesta": "Para actualizar el sistema y analizar la ip antes de tu histograma, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "ayuda para proyectar y optimizar la distribucion sin errores en horario",
+    "etiqueta": "codigo",
+    "respuesta": "Para proyectar y optimizar la distribucion en horario, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "como puedo reiniciar el memoria para analizar la estadistica antes de la tarea",
+    "etiqueta": "codigo",
+    "respuesta": "Para reiniciar el memoria y analizar la estadistica antes de tu tarea, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "crear un pantalla para planificar el backlog de forma automatizada",
+    "etiqueta": "codigo",
+    "respuesta": "Script configurado: he creado el pantalla para planificar tu backlog de forma periódica en segundo plano."
+  },
+  {
+    "texto": "crear un dimension para calcular el decorador de forma automatizada",
+    "etiqueta": "codigo",
+    "respuesta": "Script configurado: he creado el dimension para calcular tu decorador de forma periódica en segundo plano."
+  },
+  {
+    "texto": "como puedo desplegar el dns para analizar la duracion antes de la firewall",
+    "etiqueta": "codigo",
+    "respuesta": "Para desplegar el dns y analizar la duracion antes de tu firewall, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo compilar el framework para analizar la sprint antes de la cronograma",
+    "etiqueta": "codigo",
+    "respuesta": "Para compilar el framework y analizar la sprint antes de tu cronograma, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "crear un ethernet para agendar el probabilidad de forma automatizada",
+    "etiqueta": "codigo",
+    "respuesta": "Script configurado: he creado el ethernet para agendar tu probabilidad de forma periódica en segundo plano."
+  },
+  {
+    "texto": "como puedo proyectar el frontend para analizar la datos antes de la dataframe",
+    "etiqueta": "codigo",
+    "respuesta": "Para proyectar el frontend y analizar la datos antes de tu dataframe, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo crear el fallo para analizar la notificacion antes de la commit",
+    "etiqueta": "codigo",
+    "respuesta": "Para crear el fallo y analizar la notificacion antes de tu commit, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo calcular el percentil para analizar la retrospectiva antes de la subred",
+    "etiqueta": "codigo",
+    "respuesta": "Para calcular el percentil y analizar la retrospectiva antes de tu subred, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "como puedo docker el depurador para analizar la gradiente antes de la prediccion",
+    "etiqueta": "codigo",
+    "respuesta": "Para docker el depurador y analizar la gradiente antes de tu prediccion, valida los tipos de datos y corre pruebas unitarias."
+  },
+  {
+    "texto": "crear un interfaz para agendar el series_temporales de forma automatizada",
+    "etiqueta": "codigo",
+    "respuesta": "Script configurado: he creado el interfaz para agendar tu series_temporales de forma periódica en segundo plano."
+  },
+  {
+    "texto": "ayuda para reiniciar y optimizar la json sin errores en outliers",
+    "etiqueta": "codigo",
+    "respuesta": "Para reiniciar y optimizar la json en outliers, añade puntos de interrupción con el depurador y valida la memoria."
+  },
+  {
+    "texto": "crear un promesa para reiniciar el ping de forma automatizada",
+    "etiqueta": "codigo",
+    "respuesta": "Script configurado: he creado el promesa para reiniciar tu ping de forma periódica en segundo plano."
+  },
+  {
+    "texto": "planificar una bloque tecnica para depurar el series_temporales de datos",
+    "etiqueta": "agenda",
+    "respuesta": "Sesión de bloque agendada en tu calendario para coordinar el trabajo y depurar el series_temporales correctamente."
+  },
+  {
+    "texto": "agendar una decorador urgente para solucionar el enfoque con el equipo",
+    "etiqueta": "agenda",
+    "respuesta": "Reunión de decorador agendada en tu calendario para solucionar el enfoque con prioridad alta."
+  },
+  {
+    "texto": "sabes que es un bucle for?",
+    "etiqueta": "agenda",
+    "respuesta": "He registrado la solicitud de agenda para 'sabes, que, es' en tu calendario con alerta activa."
+  },
+  {
+    "texto": "agenda una cita para mañana",
+    "etiqueta": "agenda",
+    "respuesta": "He registrado la solicitud de agenda para 'agenda, una, cita' en tu calendario con alerta activa."
+  },
+  {
+    "texto": "Se cayó la conexión con el servidor y la contraseña",
+    "etiqueta": "agenda",
+    "respuesta": "He registrado la solicitud de agenda para 'Se, cayó, la' en tu calendario con alerta activa."
+  },
+  {
+    "texto": "Tengo un error en el bucle de mi código python",
+    "etiqueta": "agenda",
+    "respuesta": "He registrado la solicitud de agenda para 'Tengo, un, error' en tu calendario con alerta activa."
+  },
+  {
+    "texto": "Vamos a calcular la probabilidad y graficar la matriz",
+    "etiqueta": "agenda",
+    "respuesta": "He registrado la solicitud de agenda para 'Vamos, a, calcular' en tu calendario con alerta activa."
+  },
+  {
+    "texto": "tengo una reunión mañana",
+    "etiqueta": "agenda",
+    "respuesta": "Entendido. He incorporado el conocimiento de 'tengo una reunión mañana' a mi clase 'agenda'."
+  },
+  {
+    "texto": "añade una tarea pendiente",
+    "etiqueta": "agenda",
+    "respuesta": "Entendido. He incorporado el conocimiento de 'añade una tarea pendiente' a mi clase 'agenda'."
+  },
+  {
+    "texto": "borra la tarea pendiente",
+    "etiqueta": "agenda",
+    "respuesta": "Entendido. He incorporado el conocimiento de 'borra la tarea pendiente' a mi clase 'agenda'."
+  },
+  {
+    "texto": "que tareas pendientes tengo hoy?",
+    "etiqueta": "agenda",
+    "respuesta": "Entendido. He incorporado el conocimiento de 'que tareas pendientes tengo hoy?' a mi clase 'agenda'."
+  },
+  {
+    "texto": "recordar la hito pendiente en mi reunion de trabajo",
+    "etiqueta": "agenda",
+    "respuesta": "He colocado tu hito pendiente al tope de tu reunion de trabajo con etiqueta de atención urgente."
+  },
+  {
+    "texto": "crear un horario para no olvidar la prioritario",
+    "etiqueta": "agenda",
+    "respuesta": "Alarma configurada: tu horario para la prioritario emitirá una alerta 15 minutos antes de la hora acordada."
+  },
+  {
+    "texto": "como enfoque mi recordatorio con las tareas de alta prioridad",
+    "etiqueta": "agenda",
+    "respuesta": "Para enfoque tu recordatorio, reserva las primeras dos horas del día para tareas críticas y evita interrupciones."
+  },
+  {
+    "texto": "organizar una deadline técnica para solucionar el evento de memoria",
+    "etiqueta": "agenda",
+    "respuesta": "Sesión de deadline agendada en tu calendario para diagnosticar el evento y asegurar la estabilidad de memoria."
+  },
+  {
+    "texto": "planificar un nuevo cronograma en el calendario de la semana",
+    "etiqueta": "agenda",
+    "respuesta": "Nuevo cronograma incorporado en tu calendario semanal para balancear la carga de compromisos y tiempos de descanso."
+  },
+  {
+    "texto": "organizar un distribucion semanal para desplegar los pendientes de contraseña",
+    "etiqueta": "agenda",
+    "respuesta": "Itinerario de distribucion organizado en tu agenda para desplegar las metas pendientes de contraseña."
+  },
+  {
+    "texto": "necesito reiniciar la recall de datos antes de la planificacion de entrega",
+    "etiqueta": "datos_ia",
+    "respuesta": "He procedido a reiniciar la recall de datos. Los resultados quedan listos antes de la planificacion."
+  },
+  {
+    "texto": "como actualizar los proxy en este recordatorio de machine learning",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para actualizar los proxy en tu recordatorio, calcula las medidas de dispersión y proyecta la matriz de correlación."
+  },
+  {
+    "texto": "entrenar un modelo para compilar los patrones en este asunto",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para compilar en tu asunto, normaliza las columnas numéricas y divide en subconjuntos de entrenamiento y test."
+  },
+  {
+    "texto": "como solucionar los reunion en este clustering de machine learning",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para solucionar los reunion en tu clustering, calcula las medidas de dispersión y proyecta la matriz de correlación."
+  },
+  {
+    "texto": "necesito proyectar la precision de datos antes de la memoria de entrega",
+    "etiqueta": "datos_ia",
+    "respuesta": "He procedido a proyectar la precision de datos. Los resultados quedan listos antes de la memoria."
+  },
+  {
+    "texto": "como actualizar los varianza en este promesa de machine learning",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para actualizar los varianza en tu promesa, calcula las medidas de dispersión y proyecta la matriz de correlación."
+  },
+  {
+    "texto": "como actualizar los datos en este router de machine learning",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para actualizar los datos en tu router, calcula las medidas de dispersión y proyecta la matriz de correlación."
+  },
+  {
+    "texto": "como docker los error en este alarma de machine learning",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para docker los error en tu alarma, calcula las medidas de dispersión y proyecta la matriz de correlación."
+  },
+  {
+    "texto": "quiero generar un outliers para visualizar los recordatorio",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para graficar recordatorio en un outliers, mapea las dimensiones continuas en los ejes cartesianos de dispersión."
+  },
+  {
+    "texto": "como calcular la datos y la analisis de esta distribucion",
+    "etiqueta": "datos_ia",
+    "respuesta": "Calcula la datos acumulada integrando la densidad de probabilidad de analisis a lo largo del intervalo de datos."
+  },
+  {
+    "texto": "como datos la prediccion en este conjunto de calcular",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para analizar 'como, datos, la', calculamos la matriz muestral y evaluamos la probabilidad en el dataset."
+  },
+  {
+    "texto": "necesito hacer una latencia sobre la conexion de datos",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para proyectar una latencia sobre la conexion, ajusta un modelo supervisado evaluando el coeficiente de determinación R²."
+  },
+  {
+    "texto": "entrenar un modelo para crear los patrones en este overfitting",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para crear en tu overfitting, normaliza las columnas numéricas y divide en subconjuntos de entrenamiento y test."
+  },
+  {
+    "texto": "entrenar un modelo para sincronizar los patrones en este socket",
+    "etiqueta": "datos_ia",
+    "respuesta": "Para sincronizar en tu socket, normaliza las columnas numéricas y divide en subconjuntos de entrenamiento y test."
+  },
+  {
+    "texto": "necesito docker la async de datos antes de la descanso de entrega",
+    "etiqueta": "datos_ia",
+    "respuesta": "He procedido a docker la async de datos. Los resultados quedan listos antes de la descanso."
+  },
+  {
+    "texto": "como desplegar la asunto del distribucion para evitar un firewall en el sistema",
+    "etiqueta": "soporte",
+    "respuesta": "Para desplegar la asunto del distribucion y evitar un firewall, limpia la memoria en búfer y ajusta los parámetros de ejecución."
+  },
+  {
+    "texto": "urgente ip de acceso y driver en el sistema",
+    "etiqueta": "soporte",
+    "respuesta": "Incidencia de ip y driver registrada: comprueba el firewall local y valida que el puerto de red esté operativo."
+  },
+  {
+    "texto": "como ssl las opciones para solucionar este problema",
+    "etiqueta": "soporte",
+    "respuesta": "Para ssl las opciones ante este problema, entra en modo de recuperación y restaura la configuración anterior."
+  },
+  {
+    "texto": "tengo un reiniciar con la problema de mi cuenta",
+    "etiqueta": "soporte",
+    "respuesta": "Para resolver el reiniciar con la problema, abre el panel de seguridad de usuario y solicita un reseteo de acceso."
+  },
+  {
+    "texto": "necesito fallo inmediata por un ayuda en la aplicacion",
+    "etiqueta": "soporte",
+    "respuesta": "Diagnóstico de soporte para 'necesito, fallo, inmediata': te sugiero reiniciar el servicio y verificar credenciales de red."
+  },
+  {
+    "texto": "como puedo depurador la dns si hay un overfitting",
+    "etiqueta": "soporte",
+    "respuesta": "Si surge un overfitting, debes depurador la dns deteniendo el proceso en segundo plano y reiniciando el servicio de red."
+  },
+  {
+    "texto": "como puedo tensor la grafico si hay un planificar",
+    "etiqueta": "soporte",
+    "respuesta": "Si surge un planificar, debes tensor la grafico deteniendo el proceso en segundo plano y reiniciando el servicio de red."
+  },
+  {
+    "texto": "como puedo normalizacion la prioritario si hay un vector",
+    "etiqueta": "soporte",
+    "respuesta": "Si surge un vector, debes normalizacion la prioritario deteniendo el proceso en segundo plano y reiniciando el servicio de red."
+  },
+  {
+    "texto": "como optimizar la antivirus del dataframe para evitar un kanban en el sistema",
+    "etiqueta": "soporte",
+    "respuesta": "Para optimizar la antivirus del dataframe y evitar un kanban, reduce el uso de memoria en el servidor y limpia procesos en segundo plano."
+  },
+  {
+    "texto": "la driver no responde y necesito desviacion el equipo",
+    "etiqueta": "soporte",
+    "respuesta": "Cuando la driver deja de responder y requieres desviacion, ejecuta un reinicio forzado manteniendo presionado el botón 10 segundos."
+  },
+  {
+    "texto": "tengo un correlacion con el dataset y afecta la retrospectiva del equipo",
+    "etiqueta": "soporte",
+    "respuesta": "He registrado el correlacion con el dataset. Hemos ajustado la prioridad de la retrospectiva para restablecer el servicio."
+  },
+  {
+    "texto": "como desplegar la modulo del distribucion para evitar un alarma en el sistema",
+    "etiqueta": "soporte",
+    "respuesta": "Para desplegar la modulo del distribucion y evitar un alarma, limpia la memoria en búfer y ajusta los parámetros de ejecución."
+  },
+  {
+    "texto": "tengo un problema de distribucion al configurar la bios en el evento",
+    "etiqueta": "soporte",
+    "respuesta": "Incidencia de distribucion registrada al configurar la bios en tu evento. Te recomiendo reiniciar el proceso y revisar logs."
+  },
+  {
+    "texto": "se cayo el deploy y no es posible crear la clase de red",
+    "etiqueta": "soporte",
+    "respuesta": "Ante la caída del deploy que impide crear la clase, verifica el gateway y comprueba los puertos del firewall."
+  },
+  {
+    "texto": "tengo un problema de ssl al desplegar la decorador en el variable",
+    "etiqueta": "soporte",
+    "respuesta": "Incidencia de ssl registrada al desplegar la decorador en tu variable. Te recomiendo reiniciar el proceso y revisar logs."
+  }
+]
